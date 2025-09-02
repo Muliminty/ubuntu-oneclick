@@ -1,2 +1,2 @@
-# ubuntu-oneclick
-Ubuntu 一键脚本工具仓库
+# uubntu 一键脚本
+
